@@ -15,10 +15,9 @@ Algorithms for the deletion-channel:
 Algorithms for the deletion-insertion-substitution-channel:
 1. BMA-Lookahead Algorithm. [Gopalan et al.](https://patents.google.com/patent/US20180211001A1/en)
 2. VS Algorithm. [Viswanathan and Swaminathan](https://dl.acm.org/doi/abs/10.5555/1347082.1347126)
-3. LCS-Anchor Algorithm. [Our work](https://www.biorxiv.org/content/10.1101/2020.09.16.300186v1.full)
-4. The Iterative Reconstruction Algortihm. [Our work](https://www.biorxiv.org/content/10.1101/2020.09.16.300186v1.full)
-5. Divider BMA Algorithm. [Our work](https://www.biorxiv.org/content/10.1101/2020.09.16.300186v1.full)
-6. Hybrid Algorithm. [Our work](https://www.biorxiv.org/content/10.1101/2020.09.16.300186v1.full)
+3. The Iterative Reconstruction Algortihm. [Our work](https://www.biorxiv.org/content/10.1101/2020.09.16.300186v1.full)
+4. Divider BMA Algorithm. [Our work](https://www.biorxiv.org/content/10.1101/2020.09.16.300186v1.full)
+5. Hybrid Algorithm. [Our work](https://www.biorxiv.org/content/10.1101/2020.09.16.300186v1.full)
 
 
 ### Compilation
